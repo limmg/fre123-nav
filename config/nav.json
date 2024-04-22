@@ -191,10 +191,7 @@
 				]
 			},
 			{
-				"upper_right_corner": {
-					"title": "技术资讯汇总>>>",
-					"url": "https://www.fre123.com/tech"
-				},
+				"upper_right_corner": {},
 				"tab_name": "技术资讯",
 				"details": [
 					{
@@ -335,10 +332,7 @@
 				]
 			},
 			{
-				"upper_right_corner": {
-					"title": "精选周刊大全>>>",
-					"url": "https://www.fre123.com/weekly"
-				},
+				"upper_right_corner": {},
 				"tab_name": "技术周刊",
 				"details": [
 					{
@@ -1020,10 +1014,7 @@
 		"tab_list": [
 			{
 				"tab_name": "番剧资源",
-				"upper_right_corner": {
-					"title": "🔥FRE123动漫搜索引擎>>>",
-					"url": "https://www.fre123.com/anime/s"
-				},
+				"upper_right_corner": {},
 				"details": [
 					{
 						"title": "FRE123 动漫搜索引擎",
@@ -1248,10 +1239,7 @@
 			},
 			{
 				"tab_name": "番剧下载",
-				"upper_right_corner": {
-					"title": "🔥FRE123动漫搜索引擎>>>",
-					"url": "https://www.fre123.com/anime/s"
-				},
+				"upper_right_corner": {},
 				"details": [
 					{
 						"title": "蜜柑计划",
@@ -1345,10 +1333,7 @@
 			},
 			{
 				"tab_name": "漫画阅读",
-				"upper_right_corner": {
-					"title": "🔥FRE123动漫搜索引擎>>>",
-					"url": "https://www.fre123.com/anime/s"
-				},
+				"upper_right_corner": {},
 				"details": [
 					{
 						"title": "包子漫画",
@@ -1604,10 +1589,7 @@
 			},
 			{
 				"tab_name": "动漫资讯",
-				"upper_right_corner": {
-					"title": "🔥FRE123动漫搜索引擎>>>",
-					"url": "https://www.fre123.com/anime/s"
-				},
+				"upper_right_corner": {},
 				"details": [
 					{
 						"title": "Bangumi 番组计划",
