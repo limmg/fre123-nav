@@ -1,7 +1,7 @@
 {
 	"base": {
 		"app_name": "阿蒙导航",
-		"web_host": "https://dh.limmg.top",
+		"web_host": "https://dh.51xyw.xyz",
 		"logo": "https://img.fre123.com/i/2023/11/25/65619e8022505.png"
 	},
 	"seo": {
@@ -38,7 +38,7 @@
 			"is_show": true,
 			"group": {
 				"name": "我的博客",
-				"url": "https://www.limmg.top/"
+				"url": "https://blog.51xyw.xyz"
 			}
 		}
 	},
